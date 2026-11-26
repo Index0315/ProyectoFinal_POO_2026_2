@@ -1,0 +1,2 @@
+package modelo;
+public enum EstadoVenta { SEPARADA, CONTRATO_FIRMADO, EN_MOROSIDAD, DESISTIDA, ENTREGADA }
