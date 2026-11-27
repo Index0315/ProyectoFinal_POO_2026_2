@@ -1,3 +1,5 @@
+package ConstructoraCondominios_Java_Inicial.ConstructoraCondominios.src;
+
 import gestion.Sistema;
 import interfaz.FrmLogin;
 import javax.swing.SwingUtilities;
